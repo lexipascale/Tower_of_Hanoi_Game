@@ -1,5 +1,5 @@
 # Tower_of_Hanoi_Game
-I created this game as a class project. it is a puzzle game that has of three rods (Left, Middle, Right) and a number of disks of different sizes, which can slide onto any rod. The puzzle starts with the disks in a neat stack in ascending order of size on one rod, the smallest at the top.
+I created this game as a class project. It is a puzzle game that has of three rods (Left, Middle, Right) and a number of disks of different sizes, which can slide onto any rod. The puzzle starts with the disks in a neat stack in ascending order of size on one rod, the smallest at the top.
 
 The objective of the puzzle is to move the entire stack to another rod, obeying the following rules:
 
